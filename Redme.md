@@ -1,5 +1,5 @@
-First Major Project Using the SQL and POWER BI on a dataset containing the information about the customer using the credit cards
+Major Project using SQL and POWER BI on a dataset containing the information about the customers using the credit card.
 
-Dataset consist of two csv file one contianig Personal information about the customer 
+Dataset consists of two csv files one containing  personal information about the customers and
 
-The second dataset consist of the information about the credit card usages 
+the second dataset consists of the information about the credit card usages .
